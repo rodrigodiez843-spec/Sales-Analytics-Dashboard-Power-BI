@@ -2,6 +2,7 @@
 El proyecto consiste en el desarrollo de un dashboard analítico en Power BI para evaluar el desempeño comercial de una empresa distribuidora mayorista de calzado en Argentina, durante el período 2023–2025. El objetivo es transformar datos transaccionales en información clara y accionable, facilitando la toma de decisiones comerciales y estratégicas
 
 → Objetivos del análisis
+
 Analizar la evolución de ventas y rentabilidad
 Identificar regiones con mayor volumen comercial
 Evaluar el desempeño de productos y categorías
@@ -9,6 +10,7 @@ Analizar el comportamiento de clientes y vendedores
 
 
 🛠️ Stack tecnológico
+
 Power BI (visualización y dashboard)
 DAX (medidas y métricas analíticas)
 Power Query (limpieza y transformación de datos)
