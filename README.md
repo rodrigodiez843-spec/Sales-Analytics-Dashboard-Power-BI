@@ -62,12 +62,15 @@ Variaciones interanuales (2023–2025)
 <img width="1925" height="1087" alt="Captura de pantalla 2026-04-05 201553" src="https://github.com/user-attachments/assets/e480c458-24fd-43bb-bb33-46931245ab2b" />
 
 
+
 🔍 Insights principales
+
 📍 Las regiones Centro y NOA concentran el mayor volumen de ventas y beneficio
 👟 La categoría Deportivo lidera el negocio
 🧑‍💼 Existe una fuerte concentración de ingresos en pocos clientes (modelo B2B)
 🏆 Algunos vendedores concentran gran parte de la facturación
 📉📈 Se observa una caída en 2024 con recuperación en 2025
+
 
 
 💡 Valor del proyecto
