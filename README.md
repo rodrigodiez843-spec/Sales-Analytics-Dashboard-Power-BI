@@ -1,6 +1,6 @@
 ## 📊 Vista previa del dashboard
 
-Dashboard /Panorama comercial.png
+!Dashboard /Panorama comercial.png
 
 
 # Sales-Analytics-Dashboard-Power-BI
