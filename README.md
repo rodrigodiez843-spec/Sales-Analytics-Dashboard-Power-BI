@@ -2,7 +2,9 @@
 
 ## 📊 Vista previa del dashboard
 
-![Dashboard](Dashboard/Panorama_comercial.png)
+<img width="1925" height="1087" alt="Captura de pantalla 2026-04-05 201553" src="https://github.com/user-attachments/assets/4c13cad8-d948-4697-a27a-3dedf0f15377" />
+
+
 
 # Sales-Analytics-Dashboard-Power-BI
 El proyecto consiste en el desarrollo de un dashboard analítico en Power BI para evaluar el desempeño comercial de una empresa distribuidora mayorista de calzado en Argentina, durante el período 2023–2025. El objetivo es transformar datos transaccionales en información clara y accionable, facilitando la toma de decisiones comerciales y estratégicas
