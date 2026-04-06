@@ -1,10 +1,12 @@
 
 
 ## 📊 Vista previa del dashboard
+
 ![Dashboard](https://raw.githubusercontent.com/rodrigodiez843-spec/Sales-Analytics-Dashboard-Power-BI/main/Dashboard%20/Panorama_comercial.png)
 
+![Dashboard](https://raw.githubusercontent.com/rodrigodiez843-spec/Sales-Analytics-Dashboard-Power-BI/main/Dashboard%20/%20Analisis_geogr%C3%A1fico.png)
 
-<img width="1925" height="1087" alt="Captura de pantalla 2026-04-05 201553" src="https://github.com/user-attachments/assets/4c13cad8-d948-4697-a27a-3dedf0f15377" />
+![Dashboard](https://raw.githubusercontent.com/rodrigodiez843-spec/Sales-Analytics-Dashboard-Power-BI/blob/main/Dashboard%20/Analisis_de_productos.png)
 
 
 
