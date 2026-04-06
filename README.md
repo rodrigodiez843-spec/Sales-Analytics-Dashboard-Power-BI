@@ -6,7 +6,7 @@
 
 ![Dashboard](https://raw.githubusercontent.com/rodrigodiez843-spec/Sales-Analytics-Dashboard-Power-BI/main/Dashboard%20/%20Analisis_geogr%C3%A1fico.png)
 
-![Dashboard](https://raw.githubusercontent.com/rodrigodiez843-spec/Sales-Analytics-Dashboard-Power-BI/blob/main/Dashboard%20/Analisis_de_productos.png)
+![Dashboard](https://raw.githubusercontent.com/rodrigodiez843-spec/Sales-Analytics-Dashboard-Power-BI/main/Dashboard%20/Analisis_de_productos.png)
 
 
 
