@@ -1,7 +1,6 @@
 
 
 ## 📊 Vista previa del dashboard
-![Dashboard](Dashboard/panorama_general.png)
 
 <img width="1925" height="1087" alt="Captura de pantalla 2026-04-05 201553" src="https://github.com/user-attachments/assets/4c13cad8-d948-4697-a27a-3dedf0f15377" />
 
